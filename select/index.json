@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Beautiful Things",
+  "base_artist": "Benson Boone",
+  "createdAt": "2025-12-02T05:54:28.222249Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Beautiful Things",
+      "artist": "Roxette",
+      "has_synced": true,
+      "path": "select/01_Beautiful_Things_Roxette.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Beautiful Things",
+      "artist": "Roxette",
+      "has_synced": false,
+      "path": "select/02_Beautiful_Things_Roxette.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Beautiful Things (Demo)",
+      "artist": "Roxette",
+      "has_synced": true,
+      "path": "select/03_Beautiful_Things_(Demo)_Roxette.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "A Thousand Beautiful Things",
+      "artist": "Annie Lennox",
+      "has_synced": false,
+      "path": "select/04_A_Thousand_Beautiful_Things_Annie_Lennox.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "A Thousand Beautiful Things",
+      "artist": "Annie Lennox",
+      "has_synced": true,
+      "path": "select/05_A_Thousand_Beautiful_Things_Annie_Lennox.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "A Thousand Beautiful Things (Bimbo Jones Stealth Dub)",
+      "artist": "Annie Lennox",
+      "has_synced": false,
+      "path": "select/06_A_Thousand_Beautiful_Things_(Bimbo_Jones_Stealth_Dub)_Annie_Lennox.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Beautiful Things Can Happen",
+      "artist": "Sia",
+      "has_synced": true,
+      "path": "select/07_Beautiful_Things_Can_Happen_Sia.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "All the Beautiful Things",
+      "artist": "The Stone Poneys",
+      "has_synced": false,
+      "path": "select/08_All_the_Beautiful_Things_The_Stone_Poneys.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "All The Beautiful Things",
+      "artist": "Linda Ronstadt",
+      "has_synced": false,
+      "path": "select/09_All_The_Beautiful_Things_Linda_Ronstadt.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Beautiful Things",
+      "artist": "Bobby Darin",
+      "has_synced": true,
+      "path": "select/10_Beautiful_Things_Bobby_Darin.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Run (Beautiful Things)",
+      "artist": "AWOLNATION",
+      "has_synced": true,
+      "path": "select/11_Run_(Beautiful_Things)_AWOLNATION.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Run (Beautiful Things)",
+      "artist": "Awolnation",
+      "has_synced": true,
+      "path": "select/12_Run_(Beautiful_Things)_Awolnation.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Beautiful Things",
+      "artist": "Benson Boone",
+      "has_synced": false,
+      "path": "select/pl_01_Beautiful_Things_Benson_Boone.txt"
+    }
+  ]
+}
